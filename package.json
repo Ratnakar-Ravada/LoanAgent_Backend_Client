@@ -1,0 +1,11 @@
+{
+    "name": "loan_agent",
+    "type":"module",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {}
+}
